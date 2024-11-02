@@ -19,7 +19,9 @@
     font-style: normal;
   }
   
-
+html {
+    scroll-behavior: smooth;
+}
 
 * {
     padding: 0;
@@ -327,10 +329,6 @@ Explore more books
     background-color: rgba(115, 66, 214, 0.1);
 }
 
-.explore__button {
-    justify-content: space-around;
-    text-align: center;
-}
 
 /* 
 
